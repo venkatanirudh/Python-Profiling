@@ -1,4 +1,4 @@
-def leb_cal_2a(n):
+def leibniz_formula(n):
     # Initializing sum
     t_sum = 0
     # Iterating from 0 to n
@@ -15,4 +15,4 @@ def leb_cal_2a(n):
 # Get user input for n
 n=int(input("Enter the value of n: "))
 # Display the result
-print("Result : " ,leb_cal_2a(n))
+print("Result : " ,leibniz_formula(n))
